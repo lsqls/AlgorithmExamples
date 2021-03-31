@@ -1,0 +1,105 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch UFfinal",
+            "request": "launch",
+            "mainClass": "UnionFind.UFfinal",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UF4",
+            "request": "launch",
+            "mainClass": "UnionFind.UF4",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UF3",
+            "request": "launch",
+            "mainClass": "UnionFind.UF3",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch UF1",
+            "request": "launch",
+            "mainClass": "UnionFind.UF1",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BST",
+            "request": "launch",
+            "mainClass": "BST.BST",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch bs",
+            "request": "launch",
+            "mainClass": "BST.bs",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch heapSort",
+            "request": "launch",
+            "mainClass": "sort.heap.heapSort",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch indexHeap",
+            "request": "launch",
+            "mainClass": "sort.heap.indexHeap",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxHeap",
+            "request": "launch",
+            "mainClass": "sort.heap.maxHeap",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertSort",
+            "request": "launch",
+            "mainClass": "sort.insertSort",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSort",
+            "request": "launch",
+            "mainClass": "sort.mergeSort",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch quickSort",
+            "request": "launch",
+            "mainClass": "sort.quickSort",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectSort",
+            "request": "launch",
+            "mainClass": "sort.selectSort",
+            "projectName": "AlgorithmExamples_a6e26c5e"
+        }
+    ]
+}
